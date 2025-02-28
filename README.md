@@ -65,10 +65,10 @@
 | <center>**PK**</center> | **Id**              | int              | ID профиля                            |                         | not null, autoincrement                                             |
 |                         | **FirstName**       | nvarchar(100)    | Имя                                   |                         | not null                                                            |
 |                         | **LastName**        | int              | Фамилия                               |                         | not null                                                            |
-|                         | **MiddleName**      | int              | Отчество                              |                         | not null                                                            |
+|                         | **MiddleName**      | int              | Отчество                              |                         |                                                                     |
 |                         | **Address**         | int              | Адрес                                 |                         | not null                                                            |
 |                         | **PassportNumber**  | int              | Номер паспорта                        |                         | not null                                                            |
-|                         | **Email**           | int              | E-mail                                |                         | not null                                                            |
-|                         | **PhoneNumber**     | int              | Номер телефона                        |                         | not null                                                            |
-|                         | **PhotoKey**        | int              | Ключ фотографии                       | <center>**FK**</center> | not null                                                            |
+|                         | **Email**           | int              | E-mail                                |                         |                                                                     |
+|                         | **PhoneNumber**     | int              | Номер телефона                        |                         |                                                                     |
+|                         | **PhotoKey**        | int              | Ключ фотографии                       | <center>**FK**</center> |                                                                     |
 |                         | **UserId**          | int              | ID пользователя                       | <center>**FK**</center> | not null                                                            |
