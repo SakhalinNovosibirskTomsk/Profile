@@ -197,7 +197,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="stPbw-fF8eC5mRrOZcO3-9" value="Email nvarchar(50) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="stPbw-fF8eC5mRrOZcO3-7">
+        <mxCell id="stPbw-fF8eC5mRrOZcO3-9" value="Email nvarchar(50)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="stPbw-fF8eC5mRrOZcO3-7">
           <mxGeometry x="30" width="250" height="30" as="geometry">
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -210,7 +210,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="stPbw-fF8eC5mRrOZcO3-12" value="PhoneNumber nvarchar(50) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="stPbw-fF8eC5mRrOZcO3-10">
+        <mxCell id="stPbw-fF8eC5mRrOZcO3-12" value="PhoneNumber nvarchar(50)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="stPbw-fF8eC5mRrOZcO3-10">
           <mxGeometry x="30" width="250" height="30" as="geometry">
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -223,7 +223,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="stPbw-fF8eC5mRrOZcO3-15" value="PhotoKey nvarchar(100) NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="stPbw-fF8eC5mRrOZcO3-13">
+        <mxCell id="stPbw-fF8eC5mRrOZcO3-15" value="PhotoKey nvarchar(100)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="stPbw-fF8eC5mRrOZcO3-13">
           <mxGeometry x="30" width="250" height="30" as="geometry">
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
